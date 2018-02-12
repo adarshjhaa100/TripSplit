@@ -16,3 +16,15 @@ Added backend for firebase
 ### Authentication
 It is using firebase Oauth
 
+## Functions
+
+## Signup
+Google Oauth signup
+
+### signupcheck
+Function to check whether a user is logged in or not.
+If yes, then move on to other activity 
+If no, the call function signup again
+
+
+
